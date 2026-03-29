@@ -1,7 +1,7 @@
 import torch
 import matplotlib.pyplot as plt
 from torchvision import datasets, transforms
-from model import CNN  # 假设模型定义在 model.py 文件中
+from model import CNN
 
 # 数据预处理
 transform = transforms.Compose([
