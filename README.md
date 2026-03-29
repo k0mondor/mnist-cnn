@@ -4,7 +4,7 @@ A simple Convolutional Neural Network (CNN) trained on MNIST.
 
 ## Features
 - 99% accuracy with only a few epochs
-- Clean CNN implementation
+- Clean CNN implementation for beginners
 - GPU acceleration supported
 - Easy to read & modify
 
