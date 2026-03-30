@@ -1,4 +1,4 @@
-# MNIST CNN Classification (PyTorch)
+# MNIST CNN Classification手写数字识别 (PyTorch)
 
 A simple Convolutional Neural Network (CNN) trained on MNIST with sufficient comments.
 
